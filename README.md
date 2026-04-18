@@ -23,4 +23,4 @@ Data Modeling
 DAX (Data Analysis Expressions)
 Data Visualization Techniques
 
-Screenshot/Demos:- https://github.com/Aniket3687/Hospital-Dashboard/blob/main/Hospital%20Dashboard.png
+Screenshot/Demos:- (https://github.com/Aniket3687/Hospital-Dashboard/blob/main/Hospital%20Dashboard.png)
